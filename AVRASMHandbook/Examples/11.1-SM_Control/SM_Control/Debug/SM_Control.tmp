@@ -1,0 +1,38 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\Debug/SM_Control.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>SM_Control.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>SM_Control.map</FILE>
+  <FILE>SM_Control.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</FILE><LINE>109</LINE></RESET>
+  <TIM0OVF><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</FILE><LINE>71</LINE></TIM0OVF>
+  <MOTOR_CONTROL><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</FILE><LINE>72</LINE></MOTOR_CONTROL>
+  <SM_REVERSE><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</FILE><LINE>86</LINE></SM_REVERSE>
+  <SM_FORWARD><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</FILE><LINE>76</LINE></SM_FORWARD>
+  <RES_CNT><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</FILE><LINE>98</LINE></RES_CNT>
+  <RES_CNTR><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</FILE><LINE>103</LINE></RES_CNTR>
+  <MAIN><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</FILE><LINE>137</LINE></MAIN>
+  <SM_mask><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</FILE><LINE>183</LINE></SM_mask>
+  <SB_STOP><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</FILE><LINE>151</LINE></SB_STOP>
+  <SB_FORWARD><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</FILE><LINE>159</LINE></SB_FORWARD>
+  <SB_REVERSE><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</FILE><LINE>167</LINE></SB_REVERSE>
+  <REVERSE_CONTINUE><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\SM_Control\SM_Control\SM_Control.asm</FILE><LINE>178</LINE></REVERSE_CONTINUE>
+ </LABELS>
+</ASSEMBLER_INFO>
