@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>C:\MPSU\ADC\ADC_Example\ADC_Example\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\MPSU\ADC\ADC_Example\ADC_Example\ADC_Example.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\MPSU\ADC\ADC_Example\ADC_Example\Debug/ADC_Example.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\MPSU\ADC\ADC_Example\ADC_Example\Debug/ADC_Example.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\MPSU\ADC\ADC_Example\ADC_Example\Debug\ADC_Example.map</FILE>
+  <FILE>C:\MPSU\ADC\ADC_Example\ADC_Example\Debug\ADC_Example.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\MPSU\ADC\ADC_Example\ADC_Example\ADC_Example.asm</FILE><LINE>86</LINE></RESET>
+  <ADC_END><FILE>C:\MPSU\ADC\ADC_Example\ADC_Example\ADC_Example.asm</FILE><LINE>76</LINE></ADC_END>
+  <MAIN><FILE>C:\MPSU\ADC\ADC_Example\ADC_Example\ADC_Example.asm</FILE><LINE>119</LINE></MAIN>
+ </LABELS>
+</ASSEMBLER_INFO>

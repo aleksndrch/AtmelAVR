@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\A_comp\A_comp\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\A_comp\A_comp\A_comp.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.1175\avrassembler\Include\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\A_comp\A_comp\Debug/A_comp.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>A_comp.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>A_comp.map</FILE>
+  <FILE>A_comp.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\A_comp\A_comp\A_comp.asm</FILE><LINE>78</LINE></RESET>
+  <ACI_R><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\A_comp\A_comp\A_comp.asm</FILE><LINE>66</LINE></ACI_R>
+  <RES_LED><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\A_comp\A_comp\A_comp.asm</FILE><LINE>72</LINE></RES_LED>
+  <MAIN><FILE>C:\Users\Aleksandr\Documents\Atmel Studio\6.2\A_comp\A_comp\A_comp.asm</FILE><LINE>99</LINE></MAIN>
+ </LABELS>
+</ASSEMBLER_INFO>

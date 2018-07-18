@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>C:\MPSU\Timer\Timer\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\MPSU\Timer\Timer\Timer.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files\Atmel\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\m8def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\MPSU\Timer\Timer\Debug/Timer.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\MPSU\Timer\Timer\Debug/Timer.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\MPSU\Timer\Timer\Debug\Timer.map</FILE>
+  <FILE>C:\MPSU\Timer\Timer\Debug\Timer.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\MPSU\Timer\Timer\Timer.asm</FILE><LINE>98</LINE></RESET>
+  <TIM0OVF><FILE>C:\MPSU\Timer\Timer\Timer.asm</FILE><LINE>77</LINE></TIM0OVF>
+  <DELAY1S><FILE>C:\MPSU\Timer\Timer\Timer.asm</FILE><LINE>82</LINE></DELAY1S>
+  <ZERO><FILE>C:\MPSU\Timer\Timer\Timer.asm</FILE><LINE>91</LINE></ZERO>
+  <MAIN><FILE>C:\MPSU\Timer\Timer\Timer.asm</FILE><LINE>127</LINE></MAIN>
+  <SB_START><FILE>C:\MPSU\Timer\Timer\Timer.asm</FILE><LINE>139</LINE></SB_START>
+  <SB_STOP><FILE>C:\MPSU\Timer\Timer\Timer.asm</FILE><LINE>149</LINE></SB_STOP>
+ </LABELS>
+</ASSEMBLER_INFO>
